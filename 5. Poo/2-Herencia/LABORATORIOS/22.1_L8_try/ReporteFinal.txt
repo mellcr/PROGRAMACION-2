@@ -1,0 +1,139 @@
+Fecha          Codigo         Descripcion                                                 Cantidad    Precio     Total  Observaciones                                     
+201901216      118050         PAPAYA                                                         8     20.99    167.92                                                    
+202000430      118050         PAPAYA                                                         5     20.99    104.95                                                    
+202000309      118050         PAPAYA                                                        11     20.99    230.89                                                    
+202000126      126218         TANJERINA                                                     11      5.58     61.38                                                    
+202101128      126218         TANJERINA                                                      6      5.58     33.48                                                    
+202100717      126218         TANJERINA                                                      3      5.58     16.74                                                    
+202000210      151641         YOGHURT P BEBER LACTIGURT COCO 250G                            4      9.87     39.48                                                    
+202000720      151641         YOGHURT P BEBER LACTIGURT COCO 250G                            6      9.87     59.22                                                    
+202000706      170844         EMPANIZADOR CONTADINA TRADICIONAL 283GR                        9      16.5     148.5                                                    
+202101226      178943         YOGHURT P BEBER DURAZNO LIGHT YOP 250GR                        9      7.18     64.62                                                    
+201900527      178943         YOGHURT P BEBER DURAZNO LIGHT YOP 250GR                        1      7.18      7.18                                                    
+202100316      178943         YOGHURT P BEBER DURAZNO LIGHT YOP 250GR                        2      7.18     14.36                                                    
+202100115      179485         MOLE SURTIDO CON ESPECIAS 250GR                               11     25.11    276.21                                                    
+201901012      182942         ZAPOTE                                                         2     28.39     56.78                                                    
+202001006      182942         ZAPOTE                                                         3     28.39     85.17                                                    
+202200202      204890         LECHE YAQUI DESLACTOSADA 1LT                                   1     19.31     19.31                                                    
+201900313      204890         LECHE YAQUI DESLACTOSADA 1LT                                   6     19.31    115.86                                                    
+202100305      283781         FRIJOLES REFRITOS ISADORA 430GR                                7     13.28     92.96                                                    
+201900101      285807         YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G                       4      8.83     35.32                                                    
+202000304      308982         YOGHURT P BEBER FRUGGIS FRESA 150GR                           11      5.29     58.19                                                    
+202100823      308982         YOGHURT P BEBER FRUGGIS FRESA 150GR                            6      5.29     31.74                                                    
+201900424      308982         YOGHURT P BEBER FRUGGIS FRESA 150GR                            3      5.29     15.87                                                    
+202100415      308982         YOGHURT P BEBER FRUGGIS FRESA 150GR                           10      5.29      52.9                                                    
+202000921      308982         YOGHURT P BEBER FRUGGIS FRESA 150GR                            7      5.29     37.03                                                    
+202000730      311343         YOGHURT FRESA NESTLE 1KG                                      11     23.27    255.97                                                    
+202000806      311343         YOGHURT FRESA NESTLE 1KG                                       4     23.27     93.08                                                    
+202100322      317404         LICUADO LALA CIRUELA PASA Y NUEZ 240GR                         2     10.89     21.78                                                    
+202100606      317404         LICUADO LALA CIRUELA PASA Y NUEZ 240GR                        11     10.89    119.79                                                    
+202100929      317404         LICUADO LALA CIRUELA PASA Y NUEZ 240GR                         5     10.89     54.45                                                    
+202100520      317404         LICUADO LALA CIRUELA PASA Y NUEZ 240GR                         3     10.89     32.67                                                    
+202101003      330512         YOGHURT LALA LIGHT 240GR                                       1      7.04      7.04                                                    
+202101219      330512         YOGHURT LALA LIGHT 240GR                                       1      7.04      7.04                                                    
+202001126      330512         YOGHURT LALA LIGHT 240GR                                       6      7.04     42.24                                                    
+201900713      365379         YOGHURT FRESA CON GRANOLA CHELSY 240GR                         4      6.72     26.88                                                    
+201900817      365906         AGUACATE REGIONAL KG.1.000 GR                                 11     26.65    293.15                                                    
+202101217      365906         AGUACATE REGIONAL KG.1.000 GR                                  9     26.65    239.85                                                    
+202001007      374253         TE DE MANZANILLA NEBO 24 1GR                                   9     13.81    124.29                                                    
+202100324      374253         TE DE MANZANILLA NEBO 24 1GR                                   4     13.81     55.24                                                    
+201900105      374253         TE DE MANZANILLA NEBO 24 1GR                                   5     13.81     69.05                                                    
+202100422      390920         AGUA NIAGARA 500ML                                             8      5.64     45.12                                                    
+202000312      390920         AGUA NIAGARA 500ML                                             5      5.64      28.2                                                    
+202000514      390920         AGUA NIAGARA 500ML                                             4      5.64     22.56                                                    
+201901018      397718         LECHE LALA SEMI DESLACTOSADA 1LT                               0     16.98         0                                                    
+202101019      406688         CHURROMAIS CON LIMON 38GR                                      9      5.62    35.406  Descuento Especial de 30%                         
+202000419      406688         CHURROMAIS CON LIMON 38GR                                      1      5.62     3.934  Descuento Especial de 30%                         
+201900803      406688         CHURROMAIS CON LIMON 38GR                                      9      5.62    35.406  Descuento Especial de 30%                         
+201900628      412041         TORTILLAS DE MAIZ 1KG                                          9     14.93    134.37                                                    
+201900701      412041         TORTILLAS DE MAIZ 1KG                                          3     14.93     44.79                                                    
+202001026      412041         TORTILLAS DE MAIZ 1KG                                          2     14.93     29.86                                                    
+202000813      415932         SOPA MARUCHAN CAMARON 71GR                                     1      7.68     5.376  Descuento Especial de 30%                         
+202100704      415932         SOPA MARUCHAN CAMARON 71GR                                     1      7.68     5.376  Descuento Especial de 30%                         
+201900605      415932         SOPA MARUCHAN CAMARON 71GR                                     7      7.68    48.384  Descuento Especial de 10%                         
+201900506      415932         SOPA MARUCHAN CAMARON 71GR                                    11      7.68    59.136  Descuento Especial de 30%                         
+201900923      422763         GALLETAS SUAVICREMAS FRESA 158GR                               2     13.85      27.7                                                    
+202100205      422763         GALLETAS SUAVICREMAS FRESA 158GR                               3     13.85     41.55                                                    
+202100802      422763         GALLETAS SUAVICREMAS FRESA 158GR                               4     13.85      55.4                                                    
+202000428      422763         GALLETAS SUAVICREMAS FRESA 158GR                               4     13.85      55.4                                                    
+202101109      423073         POLVO PARA HORNEAR REXAL 15KILOS                              12    350.22   4202.64                                                    
+201900518      430669         AJO GRANULADO DE CALIFORNIA KIRKLAND 51.                      10     65.12     651.2                                                    
+202001129      434681         ELOTE DORADO DEL MONTE 225GR                                   9      5.92     53.28                                                    
+202000714      434681         ELOTE DORADO DEL MONTE 225GR                                   4      5.92     23.68                                                    
+202100528      455703         PALOMITAS POFETS FLAMIN HOT 28GR                               2      6.88     13.76                                                    
+202200124      455703         PALOMITAS POFETS FLAMIN HOT 28GR                              12      6.88     82.56                                                    
+202001213      459032         GELATINA DANY LIMON 125GR                                      5      5.38     24.21  Descuento Especial de 10%                         
+202000529      459032         GELATINA DANY LIMON 125GR                                     10      5.38      26.9  Descuento Especial de 50%                         
+201900529      459032         GELATINA DANY LIMON 125GR                                      8      5.38     21.52  Descuento Especial de 50%                         
+201900725      485302         YOGHURT LALA FRESA 240GR                                       1      6.68     4.676  Descuento Especial de 30%                         
+202100104      485302         YOGHURT LALA FRESA 240GR                                       5      6.68      16.7  Descuento Especial de 50%                         
+202100117      485302         YOGHURT LALA FRESA 240GR                                       8      6.68     26.72  Descuento Especial de 50%                         
+202100705      485302         YOGHURT LALA FRESA 240GR                                       9      6.68    54.108  Descuento Especial de 10%                         
+201900319      511824         FLAN LALA SABOR VAINILLA 100GR                                 7      5.88     41.16                                                    
+202000531      511824         FLAN LALA SABOR VAINILLA 100GR                                 4      5.88     23.52                                                    
+201901203      536472         SABRITAS CASERAS JALAPENO 42GR                                 6      9.66     57.96                                                    
+202001231      536472         SABRITAS CASERAS JALAPENO 42GR                                12      9.66    115.92                                                    
+202001129      536472         SABRITAS CASERAS JALAPENO 42GR                                 3      9.66     28.98                                                    
+202200329      565169         PASTILLA PEPTO BISMOL                                          6      3.15      18.9                                                    
+202101010      565169         PASTILLA PEPTO BISMOL                                         11      3.15     34.65                                                    
+202000718      565169         PASTILLA PEPTO BISMOL                                          5      3.15     15.75                                                    
+202000605      565169         PASTILLA PEPTO BISMOL                                          5      3.15     15.75                                                    
+202100101      580927         TORTILLAS DE HARINA DEL HOGAR 22P. 840GR                       4     19.07     76.28                                                    
+202101129      582920         PINGUINOS MARINELA 40GR                                        6       4.4      26.4                                                    
+202000816      582920         PINGUINOS MARINELA 40GR                                       10       4.4        44                                                    
+202100423      620036         SABRITAS ORIGINAL SAL 490GR                                    8      63.3     506.4                                                    
+202000519      620036         SABRITAS ORIGINAL SAL 490GR                                    4      63.3     253.2                                                    
+202101111      651034         MANGO EN REBANADAS LA MORENA 800GR                             3     24.11     72.33                                                    
+202200211      651034         MANGO EN REBANADAS LA MORENA 800GR                             8     24.11    192.88                                                    
+202200101      662083         TAKIS SALSA BRAVA 62GR                                         5      7.65     38.25                                                    
+201900710      662083         TAKIS SALSA BRAVA 62GR                                         2      7.65      15.3                                                    
+201901020      675770         JARABE DE MAMEY 1.25KG                                         5     45.49    227.45                                                    
+202000911      675770         JARABE DE MAMEY 1.25KG                                         2     45.49     90.98                                                    
+201900105      690039         CORAZONES DE OREJONA PZA                                       8     10.79     86.32                                                    
+201901228      696000         MEDIA CREMA NESTLE 1LT                                         1      40.8      40.8                                                    
+201901202      696000         MEDIA CREMA NESTLE 1LT                                         8      40.8     326.4                                                    
+202001002      696000         MEDIA CREMA NESTLE 1LT                                         8      40.8     326.4                                                    
+202001123      714788         PAPA EN CUBOS DEL FUERTE 12 380GR.                             7      9.53     66.71                                                    
+201900418      748008         SANDWICH COMBINADA 3 FLORES 150GR                              3      8.23     24.69                                                    
+202200221      748008         SANDWICH COMBINADA 3 FLORES 150GR                              8      8.23     65.84                                                    
+201900726      748899         NARANJA SIN SEMILLA                                           11     10.24    112.64                                                    
+202100124      748899         NARANJA SIN SEMILLA                                            9     10.24     92.16                                                    
+202101122      778066         CHILES CHIPOTLES LA COSTENA 380GR                              9     18.53    166.77                                                    
+202000805      785062         CORAZON DE ALCACHOFA SAN MIGUEL                                4     17.36     69.44                                                    
+202100701      793026         YOGHURT NATURAL LIGHT LALA 1KG                                10     25.86     258.6                                                    
+202200106      793026         YOGHURT NATURAL LIGHT LALA 1KG                                 5     25.86     129.3                                                    
+202000907      793026         YOGHURT NATURAL LIGHT LALA 1KG                                 7     25.86    181.02                                                    
+202100713      793026         YOGHURT NATURAL LIGHT LALA 1KG                                 7     25.86    181.02                                                    
+202100529      826317         CHAMYTO BIG 114ML                                              4      7.58     30.32                                                    
+202001015      856894         HARINA MAZATL 5KG                                              7     56.07    392.49                                                    
+201900602      856894         HARINA MAZATL 5KG                                              5     56.07    280.35                                                    
+202000417      856894         HARINA MAZATL 5KG                                             12     56.07    672.84                                                    
+202000925      856894         HARINA MAZATL 5KG                                              1     56.07     56.07                                                    
+202000419      872819         GELATINA DE LECHE VAINILLA DANETTE 100GR                       6      5.13     30.78                                                    
+202101020      872819         GELATINA DE LECHE VAINILLA DANETTE 100GR                       1      5.13      5.13                                                    
+201900807      874503         GALLETAS LORS SNACKS MARINELA 75GR                             1      9.54      9.54                                                    
+202100101      882099         NESQUIK CHOCOLATE 200GR                                        1     13.51     13.51                                                    
+202100227      882099         NESQUIK CHOCOLATE 200GR                                        2     13.51     27.02                                                    
+202200123      882099         NESQUIK CHOCOLATE 200GR                                       12     13.51    162.12                                                    
+201901009      900698         VAINILLA MOLINA 500ML                                          5     19.26      96.3                                                    
+201900519      900698         VAINILLA MOLINA 500ML                                          5     19.26      96.3                                                    
+202100902      901816         JUGO VALLE FRUT CITRUS 12 250ML                                5     50.49    252.45                                                    
+202101227      901816         JUGO VALLE FRUT CITRUS 12 250ML                                2     50.49    100.98                                                    
+202000319      923804         SAL BAJA PACIFIC BOLSA 1KGR                                    7      5.26     36.82                                                    
+201900815      923804         SAL BAJA PACIFIC BOLSA 1KGR                                   11      5.26     57.86                                                    
+201901230      935218         FRIJOL AMARILLO KG                                             1     39.82     39.82                                                    
+201900421      935218         FRIJOL AMARILLO KG                                             2     39.82     79.64                                                    
+201900729      941699         MAIZ POZOLERO EXTRA 1KGR                                       3     23.28     69.84                                                    
+202000727      941699         MAIZ POZOLERO EXTRA 1KGR                                       9     23.28    209.52                                                    
+202200205      941699         MAIZ POZOLERO EXTRA 1KGR                                       6     23.28    139.68                                                    
+201900201      947176         SALSA DE CHILE HABANERO ROJO 260GR                             6     14.93     89.58                                                    
+201900203      947176         SALSA DE CHILE HABANERO ROJO 260GR                             6     14.93     89.58                                                    
+202100309      947176         SALSA DE CHILE HABANERO ROJO 260GR                             2     14.93     29.86                                                    
+202000626      961802         ACHIOTE LA EXTRA 1KG                                           1     45.54     45.54                                                    
+202101004      961802         ACHIOTE LA EXTRA 1KG                                          12     45.54    546.48                                                    
+202101102      979865         GALLETAS MARIAS CUETARA 160GR                                  9       6.1      54.9                                                    
+201900927      979865         GALLETAS MARIAS CUETARA 160GR                                 10       6.1        61                                                    
+202001010      992564         LECHUGA ROMANA                                                 2     20.79     41.58                                                    
+202001105      992564         LECHUGA ROMANA                                                 3     20.79     62.37                                                    
+201901006      997564         MANGO ECUATORIANO                                              1      16.5      16.5                                                    
+202000509      997564         MANGO ECUATORIANO                                             12      16.5       198                                                    

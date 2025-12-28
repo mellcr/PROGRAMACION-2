@@ -1,0 +1,12 @@
+MAP: RUTAS (PLACA) - CIUDADES
+AXZ123
+ciudades: 
+Lima (12.45 , 56.34)
+Chincha (13.23 , 33.44)
+Pisco (11.234 , 23.23)
+
+RFV123
+ciudades: 
+Ica (12.222 , 32.22)
+Pisco (11.234 , 23.23)
+

@@ -1,0 +1,167 @@
+codigo: BIT-434   desc:Campana Extractora modelo Glass  stock:10  precio: 375.09
+codigo: SSE-115   desc:Refrigeradora  CoolStyle 311N Steel  stock:23  precio: 3243.58
+codigo: NMV-644   desc:Lavadora Automatica  stock:5  precio: 3272.48
+codigo: MLE-193   desc:Cocina a gas Ingenious  stock:10  precio: 2779.41
+codigo: YYK-309   desc:Refrigeradora Door in Door  stock:25  precio: 4079.44
+codigo: QVJ-982   desc:Horno Microondas 0.7 p3  stock:12  precio: 1352.76
+codigo: VZV-827   desc:Refrigeradora Top Mount  stock:2  precio: 1784.27
+codigo: HFC-845   desc:Televisor Serie LED R555A  stock:22  precio: 3736.75
+codigo: AVM-258   desc:Cocina a gas Toscana  stock:20  precio: 2831.23
+codigo: YUQ-590   desc:Refrigeradora  CoolStyle 395N Steel  stock:19  precio: 1979.07
+codigo: FLJ-040   desc:Parlantes portatiles SOUNDSHOOTER  stock:19  precio: 3703.37
+codigo: EUZ-452   desc:Impresora Mutifuncional Led Color  stock:11  precio: 3623.88
+codigo: SPR-580   desc:Dispensador de Agua  stock:15  precio: 404.35
+codigo: WLL-607   desc:Cocina Electronica Convencion  stock:1  precio: 1525.04
+codigo: UWA-476   desc:Autoradio MEX BT3150U  stock:29  precio: 1191.39
+codigo: YOT-530   desc:Deshumedecedor DM-190H  stock:13  precio: 941.73
+codigo: NSR-955   desc:Cocina a gas Blogna  stock:14  precio: 2591.44
+codigo: SJD-818   desc:Refrigeradora  CoolStyle 281A Steel  stock:23  precio: 3387.75
+codigo: BCK-361   desc:Tablets 10.1  stock:9  precio: 1872.53
+codigo: ZAF-449   desc:Tablet Cardle  stock:16  precio: 816.43
+codigo: OBI-353   desc:Terma Milenium  stock:16  precio: 2960.56
+codigo: SNY-500   desc:Cocina a gas Praga Quarzo  stock:12  precio: 3297.09
+codigo: CSZ-863   desc:Video Filmadora  stock:17  precio: 1713.57
+codigo: TMJ-043   desc:Lavadora EcoBubble  stock:23  precio: 2400.79
+codigo: MTF-868   desc:Impresora Monocromatica WorkForce M205  stock:12  precio: 971.59
+codigo: BMJ-772   desc:Refrigeradora Side by Side  stock:13  precio: 936.32
+codigo: MYC-756   desc:Cocina a gas Leganza INOX  stock:21  precio: 1506.8
+codigo: FCN-617   desc:Televisor Plasma 60  stock:6  precio: 4121.05
+codigo: ONB-903   desc:Reproductor BLU-RAY 3D  stock:16  precio: 653.67
+codigo: VXS-438   desc:Mouse Blue Tooth  stock:17  precio: 60.11
+codigo: GLC-370   desc:Video Proyector Power Lite 95  stock:19  precio: 552.24
+codigo: OPT-996   desc:Mini componente GPX88  stock:14  precio: 1367.48
+codigo: PFD-286   desc:Refrigeradora cap. 415 litros  stock:8  precio: 2776.02
+codigo: KBY-991   desc:Home Theater E4100  stock:24  precio: 1101.08
+codigo: KQQ-136   desc:Impresora Laser EPSON  stock:17  precio: 1139.56
+codigo: NSM-283   desc:Cocina a gas FFG3053SL  stock:13  precio: 936.81
+codigo: ICX-503   desc:Cocina a gas Roma  stock:15  precio: 1221.02
+codigo: LDR-510   desc:Mini componente ESX9  stock:25  precio: 2701.87
+codigo: PJG-338   desc:Impresora Mutifuncional Inalambricar  stock:21  precio: 1067.8
+codigo: ISB-205   desc:Camara fotografica 16MP  stock:3  precio: 2976.43
+codigo: UDR-957   desc:Refrigeradora ECOTT 423 IXL  stock:19  precio: 861.7
+codigo: RAH-420   desc:Cocina a gas Pro 6550 INOX  stock:5  precio: 157.01
+codigo: JDQ-505   desc:Lavadora Modelo Aquamatic  stock:24  precio: 1572.31
+codigo: PPX-620   desc:Aire acondicionado tipo split  stock:8  precio: 2873.42
+codigo: XZG-521   desc:Secadora Electrica FAQE7001LW  stock:22  precio: 704.27
+codigo: VJI-529   desc:Horno Empotrable Electrico  stock:16  precio: 1102.67
+codigo: JCW-489   desc:Conservadora Exibidora CMVE-250  stock:11  precio: 2064.97
+codigo: OTS-581   desc:Galaxy Note 8.0  stock:24  precio: 2653.1
+codigo: UTN-601   desc:Autoradio XAV-601 BT  stock:4  precio: 562.51
+codigo: TZY-323   desc:Terma a gas  stock:31  precio: 2341.01
+codigo: TXM-139   desc:Televisor LED FULL HD 3D  stock:5  precio: 1092.95
+codigo: ADX-669   desc:Refrigeradora cap. 220 litros  stock:15  precio: 1239.38
+codigo: QRC-609   desc:Camara de video EOS  stock:17  precio: 1806.66
+codigo: YJD-279   desc:Cocina a gas Florencia  stock:23  precio: 1028.43
+codigo: AHB-459   desc:Reproductor DVD Portatil TV 7  stock:9  precio: 685.5
+codigo: MMA-577   desc:Congeladora Horizontal 252 Lts.  stock:14  precio: 1780.3
+codigo: VCL-867   desc:Cocina a gas Rubi 2  stock:9  precio: 699.07
+codigo: JDC-028   desc:Puntero Laser  stock:19  precio: 30.48
+codigo: JXD-139   desc:Terma Evolucion Soltu  stock:28  precio: 586.02
+codigo: KQA-580   desc:Cocina Empotrable Glassy Plus  stock:17  precio: 2907.92
+codigo: XSD-310   desc:Refrigeradora No frost  stock:17  precio: 2259.93
+codigo: YYU-726   desc:Reproductor DVD Portatil  stock:14  precio: 767.82
+codigo: EVN-510   desc:Cocina a gas FFG3011LB  stock:15  precio: 2672.3
+codigo: LZK-729   desc:Cocina a gas Kristel  stock:3  precio: 2850.91
+codigo: AQS-362   desc:Teclado Inalambrico USB  stock:7  precio: 233.05
+codigo: AWT-354   desc:Galaxy Gear  stock:22  precio: 3409.22
+codigo: CJE-310   desc:Mini componente GPX33  stock:16  precio: 3643.39
+codigo: KWP-672   desc:Televisor UHD TV  stock:24  precio: 1625.3
+codigo: DOV-560   desc:Impresora Laser Mutifuncion Monocromatica  stock:3  precio: 1203.14
+codigo: RBE-789   desc:Televisor SMART TV  stock:17  precio: 3303.07
+codigo: KCO-488   desc:Ventilador de pared  stock:22  precio: 679.6
+codigo: KSO-608   desc:Secadora Modelo Italica  stock:21  precio: 914.17
+codigo: TKM-141   desc:Cocina a gas Marsella  stock:24  precio: 402.24
+codigo: QUU-384   desc:Lavavajilla Blue Touch  stock:1  precio: 2545.54
+codigo: VRR-793   desc:Rack Giratorio 32/60  stock:26  precio: 241.71
+codigo: SAM-013   desc:Cocina a gas FFG3047SL  stock:1  precio: 2275.18
+codigo: YMU-875   desc:Cocina a gas Plermo Quarzo  stock:9  precio: 3232.1
+codigo: SSD-176   desc:Refrigeradora Linea Gallery  stock:23  precio: 567.71
+codigo: DFJ-952   desc:Cocina a gas Prestige 60 INOX  stock:18  precio: 3342.77
+codigo: BZS-261   desc:Cocina a gas Trento  stock:8  precio: 3087.87
+codigo: ARS-231   desc:Audifonos Stereos  stock:13  precio: 327.62
+codigo: SJQ-827   desc:Reproductor Multimedia Touch Screen  stock:21  precio: 1719.56
+codigo: UJV-290   desc:Cocina a gas Fassina Plus  stock:10  precio: 2423.26
+codigo: QTK-083   desc:Congeladora Conservador Vertical 476 Lts.  stock:16  precio: 2682.73
+codigo: EQY-018   desc:Radio AM/FM stereo RMU-51C  stock:7  precio: 301.73
+codigo: OQI-373   desc:Cocina Empotrable Premio Plus  stock:20  precio: 906.16
+codigo: OTH-462   desc:Lavadora Semi-Automatica  stock:20  precio: 531.04
+codigo: XTE-383   desc:Rack Fijo 32/60  stock:10  precio: 261.01
+codigo: ZVA-180   desc:Refrigeradora 322 litros  stock:13  precio: 2903.13
+codigo: BCN-855   desc:Cocina a gas Bahia Can  stock:14  precio: 4015.92
+codigo: PQH-935   desc:Rack Giratorio 26/32  stock:12  precio: 94.45
+codigo: LYZ-614   desc:Impresore Mutifuncional Expression XP-211  stock:13  precio: 3510.84
+codigo: FYF-898   desc:Proyector a color  stock:15  precio: 1160.46
+codigo: OPJ-039   desc:Secadora de Ropa  stock:12  precio: 2765.64
+codigo: CNN-411   desc:Congeladora Side by Side  stock:24  precio: 2296.29
+codigo: KJX-387   desc:Ventilador de techo  stock:9  precio: 613.19
+codigo: JFC-432   desc:DVD DVM-L79  stock:24  precio: 307.67
+codigo: EJW-346   desc:Campana Extractora  stock:11  precio: 359.7
+codigo: EBI-299   desc:Cocina a gas Fridare  stock:15  precio: 2287.57
+codigo: FEG-454   desc:Sillon masajeador  stock:8  precio: 1695.7
+codigo: YEZ-591   desc:Lavadora WA  stock:9  precio: 1320.03
+codigo: UXG-019   desc:Terma de acumulacion  stock:16  precio: 934.91
+codigo: FVB-607   desc:Cocina a gas Essenza BL  stock:13  precio: 2953.07
+codigo: RDT-761   desc:Horno Microondas con dorador  stock:21  precio: 904.95
+codigo: BWD-036   desc:Cocina Empotrable Klimatica  stock:5  precio: 1086.34
+codigo: TMN-884   desc:Secadora de mano  stock:10  precio: 310.65
+codigo: ZXK-295   desc:Cocina Empotrable Electrica  stock:9  precio: 3679.43
+codigo: DIQ-718   desc:Horno Microondas de Conveccion Cello  stock:3  precio: 390.8
+codigo: BTO-226   desc:Friobar  stock:25  precio: 863.19
+codigo: DFF-034   desc:Grabadora de voz digital portátil con USB integrado  stock:24  precio: 259.25
+codigo: OFS-384   desc:Parlantes Bluetooth  stock:8  precio: 805.22
+codigo: YZD-580   desc:Mini componente ESX8  stock:4  precio: 1582.29
+codigo: OTW-288   desc:Cavba de Vinos GE cap. 34 botellas  stock:14  precio: 1119.18
+codigo: UOD-420   desc:Mini componente ESX6  stock:10  precio: 828.94
+codigo: IDO-503   desc:Laptop GamerVictus de 15.6  stock:23  precio: 3935.17
+codigo: VDD-853   desc:Deshumedecedor  FAD30D7TSSW 3.4L 25-30m2  stock:16  precio: 1095.67
+codigo: VTV-269   desc:Extractor de aire  stock:9  precio: 854.48
+codigo: XZR-640   desc:Lavadora-Secadora FWD  stock:14  precio: 2390.58
+codigo: DON-719   desc:Secadora de Cabello SG-3035  stock:12  precio: 360.69
+codigo: HTY-123   desc:Refrigeradora GM-S604ULV  stock:1  precio: 1173.33
+codigo: LWG-915   desc:Cocina a gas Murano  stock:15  precio: 1101.47
+codigo: JYQ-045   desc:Horno Microondas 1.2 p3  stock:20  precio: 267.15
+codigo: AWB-345   desc:Deshumedecedor DM-189H  stock:6  precio: 800.37
+codigo: YGV-332   desc:Impresora Led Color  stock:18  precio: 2517.66
+codigo: HLR-109   desc:Parlantes inalambricos  stock:25  precio: 439.47
+codigo: MQR-442   desc:Reloj Digital RMM-29  stock:25  precio: 271.66
+codigo: GBD-525   desc:Refrigeradora Puertas Mágicas  stock:14  precio: 2700.95
+codigo: DEV-433   desc:Parlantes portatiles SHOQBOX  stock:13  precio: 2698.74
+codigo: OXP-732   desc:Televisor OLED 4K UHD Google TV Smart 77 XR-77A80L LA8  stock:8  precio: 16504.5
+codigo: FVQ-662   desc:Cocina a gas Pro 6300 INOX  stock:13  precio: 1060.68
+codigo: DEN-125   desc:Rack Fijo 26/32  stock:25  precio: 562.46
+codigo: CRU-009   desc:Lavavajilla  stock:5  precio: 2655.78
+codigo: RSE-049   desc:Radio CD/DVD - TV  stock:21  precio: 4037.51
+codigo: BRD-969   desc:Centro de Lavado Electrico  stock:18  precio: 2579.72
+codigo: CIM-038   desc:Cocina Empotrable Petra  stock:16  precio: 2544.64
+codigo: CNQ-172   desc:Congeladora Horizontal 364 Lts.  stock:15  precio: 3689.62
+codigo: QFR-958   desc:Cocina a gas Bavaro  stock:6  precio: 1607.46
+codigo: TYF-885   desc:Videojuego TW 4  stock:7  precio: 794.14
+codigo: VVS-017   desc:Tablets MW 0731  stock:14  precio: 2599.72
+codigo: BXY-119   desc:Cocina Empotrable Klimatica  stock:12  precio: 2716.11
+codigo: GKG-558   desc:Horno Microondas MS2042D  stock:23  precio: 1674.24
+codigo: UCX-285   desc:Galaxy Tab 3  stock:11  precio: 3290.93
+codigo: WZD-331   desc:Refrigeradora ECOTT 465 IX  stock:7  precio: 1213.79
+codigo: AFL-718   desc:Vinera  stock:17  precio: 1664.97
+codigo: JJN-837   desc:Lavadora Tecnologia Wobbie  stock:15  precio: 1979.92
+codigo: KDA-627   desc:Cocina a gas Ijasmin  stock:7  precio: 1424.46
+codigo: PVZ-181   desc:Ventilador circular  stock:8  precio: 309.77
+codigo: ISU-815   desc:Audifonos  stock:16  precio: 619.89
+codigo: OWN-701   desc:Olla arrocera   stock:21  precio: 220.82
+codigo: HFM-021   desc:Horno Electrico  stock:26  precio: 726.91
+codigo: GBJ-693   desc:Radio CD  stock:8  precio: 314.2
+codigo: FQG-293   desc:Rapiducha Premiun  stock:23  precio: 2784.31
+codigo: XBD-314   desc:Cocina a gas Fassina  stock:8  precio: 1444.9
+codigo: QIL-029   desc:Mini componente Shake-5  stock:16  precio: 2990.55
+codigo: ZWF-661   desc:Impresora Led  stock:1  precio: 2731.61
+codigo: QHC-492   desc:Terma Solucion  stock:17  precio: 1907.23
+codigo: XLF-273   desc:Centro de Lavado a Gas  stock:20  precio: 2371.95
+codigo: XOA-735   desc:Congeladora Vertical 392 Lts.  stock:12  precio: 2708.07
+codigo: FLW-631   desc:Radio Reloj Despertador  stock:7  precio: 819.04
+codigo: ZEX-027   desc:Tablet Xperia Z  stock:23  precio: 3843.75
+codigo: QJO-060   desc:Televisor LED FULL HD  stock:23  precio: 2704.14
+codigo: GXF-122   desc:Televisor Ultra HDTV  stock:15  precio: 1110.16
+codigo: QFP-254   desc:Calentador electrico instantaneo  stock:25  precio: 180.65
+codigo: DUG-251   desc:Cocina a gas FFG3047SL  stock:7  precio: 1597.96
+codigo: III-576   desc:Campana Extractora Venus Plus  stock:29  precio: 1077.65
+codigo: IHG-413   desc:Parlant Y pedestal PAM-83  stock:13  precio: 317.7
+codigo: QQB-968   desc:Refrigeradora 484 litros  stock:9  precio: 1452.92

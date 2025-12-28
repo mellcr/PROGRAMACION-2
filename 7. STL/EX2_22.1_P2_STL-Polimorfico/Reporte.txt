@@ -1,0 +1,213 @@
+STL-vector: Productos
+prio
+         0        10    412041                             TORTILLAS DE MAIZ 1KG        15
+         0        10    690039                          CORAZONES DE OREJONA PZA        11
+         0        20    151641               YOGHURT P BEBER LACTIGURT COCO 250G        10
+         0        10    632129             VINAGRE BLANCO CLEMENTE JACQUES 3.8LT        15
+         0        10    178943           YOGHURT P BEBER DURAZNO LIGHT YOP 250GR        13
+         0        20    330512                          YOGHURT LALA LIGHT 240GR         6
+         0        20    365379            YOGHURT FRESA CON GRANOLA CHELSY 240GR         0
+         0        10    118050                                            PAPAYA        23
+         0        15    365906                     AGUACATE REGIONAL KG.1.000 GR        22
+         0        15    285807          YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G         5
+         0        10    397718                  LECHE LALA SEMI DESLACTOSADA 1LT         3
+         0        20    941699                          MAIZ POZOLERO EXTRA 1KGR        21
+         0        10    935218                                FRIJOL AMARILLO KG         0
+         0        20    311343                          YOGHURT FRESA NESTLE 1KG        16
+         0        15    651034                MANGO EN REBANADAS LA MORENA 800GR        14
+         0        15    434681                      ELOTE DORADO DEL MONTE 225GR        11
+         0        10    182942                                            ZAPOTE         6
+         0        10    992564                                    LECHUGA ROMANA         8
+         0        20    674767                CHICHARRON BOTANA CON CHAMOY BOLSA         3
+         0        20    485302                          YOGHURT LALA FRESA 240GR        23
+         0        15    856894                                 HARINA MAZATL 5KG        30
+         0        15    714788                PAPA EN CUBOS DEL FUERTE 12 380GR.        10
+         0        10    997564                                 MANGO ECUATORIANO        11
+         0        20    785062                   CORAZON DE ALCACHOFA SAN MIGUEL         7
+         0        15    283781                   FRIJOLES REFRITOS ISADORA 430GR         9
+         0        15    308982               YOGHURT P BEBER FRUGGIS FRESA 150GR        42
+         0        10    204890                      LECHE YAQUI DESLACTOSADA 1LT        10
+         0        25    580927          TORTILLAS DE HARINA DEL HOGAR 22P. 840GR         6
+         0        25    923804                       SAL BAJA PACIFIC BOLSA 1KGR        18
+         0        25    423073                  POLVO PARA HORNEAR REXAL 15KILOS        10
+         0        25    947176                SALSA DE CHILE HABANERO ROJO 260GR        15
+         0        30    455703                  PALOMITAS POFETS FLAMIN HOT 28GR        12
+         0        25    900698                             VAINILLA MOLINA 500ML        11
+         0        30    696000                            MEDIA CREMA NESTLE 1LT        18
+         0        30    790585                       SALSA CASERA ENEDELIA 250GR         5
+         0        30    374588               BEBIDA DE SOYA ADES GUANABANA 946ML        18
+         0        30    901816                   JUGO VALLE FRUT CITRUS 12 250ML        11
+         0        30    261009                     CUITLACOCHE MONTEBLANCO 215GR        12
+         0        30    748008                 SANDWICH COMBINADA 3 FLORES 150GR        13
+         0        30    536472                    SABRITAS CASERAS JALAPENO 42GR        20
+         0        30    979865                     GALLETAS MARIAS CUETARA 160GR        22
+         0        30    874884                       BEBIDA NARANJA BEBERE 470ML        17
+         0        30    863714                       LECHE DE COCO CALAHUA 500ML         5
+         0        30    179485                   MOLE SURTIDO CON ESPECIAS 250GR        11
+         0        30    582920                           PINGUINOS MARINELA 40GR         6
+         0        25    565169                             PASTILLA PEPTO BISMOL        27
+         0        25    620036                       SABRITAS ORIGINAL SAL 490GR        13
+         0        25    748899                               NARANJA SIN SEMILLA        23
+         0        25    374253                      TE DE MANZANILLA NEBO 24 1GR        18
+         0        25    874503                GALLETAS LORS SNACKS MARINELA 75GR         4
+         0        25    430669          AJO GRANULADO DE CALIFORNIA KIRKLAND 51.         0
+         0        25    778066                 CHILES CHIPOTLES LA COSTENA 380GR        10
+         0        25    882099                           NESQUIK CHOCOLATE 200GR        15
+         0        25    375507              TE DE MANZANILLA McCORMICK 100 1.2GR        15
+         1        40    459032                         GELATINA DANY LIMON 125GR        24
+         1        50    422763                  GALLETAS SUAVICREMAS FRESA 158GR        14
+         1        50    178097                 CROQUETAS PEDIGREE BENEFUL 10.1KG        12
+         1        50    170844           EMPANIZADOR CONTADINA TRADICIONAL 283GR        12
+         1        50    511824                    FLAN LALA SABOR VAINILLA 100GR        14
+         1        50    415932                        SOPA MARUCHAN CAMARON 71GR        22
+         1        50    662083                            TAKIS SALSA BRAVA 62GR         6
+         1        50    349098               SALSA HABANERA ROJA GUACAMAYA 150GR        23
+         1        50    967922                      NESCAFE VAINILLA FRESCA 25GR        11
+         1        50    744237                             ALUBIAS ANTIQUA 540GR         3
+         1        50    891590                          MIEL DE ABEJA VIRGEN 1KG         9
+         1        50    317404            LICUADO LALA CIRUELA PASA Y NUEZ 240GR        24
+         1        50    387889                      CONDIMENTO PARA BIRRIA CUCU.         7
+         1        50    390920                                AGUA NIAGARA 500ML        15
+         1        50    406688                         CHURROMAIS CON LIMON 38GR        20
+         1        50    793026                    YOGHURT NATURAL LIGHT LALA 1KG        30
+         1        40    826317                                 CHAMYTO BIG 114ML         0
+         1        40    126218                                         TANJERINA        18
+         1        40    940876                       SAL DE AJO McCORMICK 1.16KG         8
+         1        40    872819          GELATINA DE LECHE VAINILLA DANETTE 100GR         8
+         1        40    675770                            JARABE DE MAMEY 1.25KG        10
+         1        40    961802                              ACHIOTE LA EXTRA 1KG        13
+         1        40    588754                                LIMONADA H2O 250ML         9
+         1        40    613623                  CHILE PASILLA MULATO LARGO 100GR        17
+
+                                REPORTE DE PEDIDOS
+====================================================================================================
+ 202100911    675770         2     10.00       Sí
+ 202100706    170844         9     27.00       Sí
+ 202100701    793026        10     50.00       Sí
+ 202100626    961802         1      1.00       Sí
+ 202100529    826317         4      4.00       Sí
+ 202100529    459032        10     30.00       Sí
+ 202100506    415932        11     33.00       Sí
+ 202100419    406688         1      0.50       Sí
+ 202100322    317404         2      4.00       Sí
+ 202100319    511824         7     21.00       Sí
+ 202100312    390920         5     10.00       Sí
+ 202100205    422763         3      1.50       Sí
+ 202100126    126218        11      5.50       Sí
+ 202100101    285807         4     20.00        No
+ 202100101    580927         4     20.00        No
+ 202100101    882099         1      5.00        No
+ 202100104    485302         5     25.00        No
+ 202100105    374253         5      5.00        No
+ 202100105    690039         8      8.00        No
+ 202100115    179485        11     55.00        No
+ 202100117    485302         8     40.00        No
+ 202100124    748899         9      9.00        No
+ 202100201    947176         6     18.00        No
+ 202100203    947176         6     18.00        No
+ 202100210    151641         4      8.00        No
+ 202100227    882099         2     10.00        No
+ 202100304    308982        11     22.00        No
+ 202100305    283781         7     35.00        No
+ 202100309    118050        11     11.00        No
+ 202100309    947176         2      6.00        No
+ 202100313    204890         6     12.00        No
+ 202100316    178943         2      6.00        No
+ 202100319    923804         7      7.00        No
+ 202100324    374253         4      4.00        No
+ 202100415    308982        10     20.00        No
+ 202100417    856894        12    120.00        No
+ 202100418    748008         3     15.00        No
+ 202100419    872819         6     12.00       Sí
+ 202100421    935218         2      6.00        No
+ 202100422    390920         8     16.00        No
+ 202100423    620036         8     40.00        No
+ 202100424    308982         3      6.00        No
+ 202100428    422763         4      2.00        No
+ 202100430    118050         5      5.00        No
+ 202100509    997564        12     12.00        No
+ 202100514    390920         4      8.00        No
+ 202100518    430669        10     30.00        No
+ 202100519    620036         4     20.00        No
+ 202100519    900698         5     25.00        No
+ 202100520    317404         3      6.00        No
+ 202100527    178943         1      3.00        No
+ 202100528    455703         2     10.00        No
+ 202100529    459032         8     24.00        No
+ 202100531    511824         4     12.00        No
+ 202100602    856894         5     50.00        No
+ 202100605    415932         7     21.00        No
+ 202100605    565169         5     10.00        No
+ 202100606    317404        11     22.00        No
+ 202100628    412041         9     45.00        No
+ 202100701    412041         3     15.00        No
+ 202100704    415932         1      3.00        No
+ 202100705    485302         9     45.00        No
+ 202100710    662083         2     10.00       Sí
+ 202100713    365379         4     16.00        No
+ 202100713    793026         7     35.00        No
+ 202100714    434681         4      4.00        No
+ 202100717    126218         3      1.50        No
+ 202100718    565169         5     10.00        No
+ 202100720    151641         6     12.00        No
+ 202100725    485302         1      5.00        No
+ 202100726    748899        11     11.00        No
+ 202100727    941699         9     27.00        No
+ 202100729    941699         3      9.00        No
+ 202100730    311343        11     55.00        No
+ 202100802    422763         4      2.00        No
+ 202100803    406688         9      4.50        No
+ 202100805    785062         4      8.00        No
+ 202100806    311343         4     20.00        No
+ 202100807    874503         1      1.00        No
+ 202100813    415932         1      3.00        No
+ 202100815    923804        11     11.00        No
+ 202100816    582920        10     40.00        No
+ 202100817    365906        11     11.00        No
+ 202100823    308982         6     12.00        No
+ 202100902    901816         5     15.00        No
+ 202100907    793026         7     35.00        No
+ 202100921    308982         7     14.00        No
+ 202100923    422763         2      1.00        No
+ 202100925    856894         1     10.00        No
+ 202100927    979865        10      5.00        No
+ 202100929    317404         5     10.00        No
+ 202101002    696000         8     40.00        No
+ 202101003    330512         1      3.00        No
+ 202101004    961802        12     12.00        No
+ 202101006    182942         3      3.00        No
+ 202101006    997564         1      1.00        No
+ 202101007    374253         9      9.00        No
+ 202101009    900698         5     25.00        No
+ 202101010    565169        11     22.00        No
+ 202101010    992564         2      1.00        No
+ 202101012    182942         2      2.00        No
+ 202101015    856894         7     70.00        No
+ 202101018    397718         0      0.00        No
+ 202101019    406688         9      4.50        No
+ 202101020    675770         5     25.00        No
+ 202101020    872819         1      2.00        No
+ 202101026    412041         2     10.00        No
+ 202101102    979865         9      4.50        No
+ 202101105    992564         3      1.50        No
+ 202101109    423073        12     12.00        No
+ 202101111    651034         3     15.00        No
+ 202101122    778066         9      9.00        No
+ 202101123    714788         7     21.00        No
+ 202101126    330512         6     18.00        No
+ 202101128    126218         6      3.00        No
+ 202101129    434681         9      9.00        No
+ 202101129    536472         3     15.00        No
+ 202101129    582920         6     24.00        No
+ 202101202    696000         8     40.00        No
+ 202101203    536472         6     30.00        No
+ 202101213    459032         5     15.00        No
+ 202101216    118050         8      8.00        No
+ 202101217    365906         9      9.00        No
+ 202101219    330512         1      3.00        No
+ 202101226    178943         9     27.00        No
+ 202101227    901816         2      6.00        No
+ 202101228    696000         1      5.00        No
+ 202101230    935218         1      3.00        No
+ 202101231    536472        12     60.00        No
+

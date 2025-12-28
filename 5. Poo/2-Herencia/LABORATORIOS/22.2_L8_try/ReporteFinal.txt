@@ -1,0 +1,10 @@
+Codigo    Descripcion                                                 Cant.                 DNI     Nombre                                            
+14962     HIERRO DEXTRANO AMP4                                           21            93282118                                                       
+15098     LISINA CLOHRIDRATO 125MG T10                                   19            93282118                                                       
+14962     HIERRO DEXTRANO AMP4                                            8            93282118                                                       
+15098     LISINA CLOHRIDRATO 125MG T10                                   34            93282118                                                       
+75565     MICONAZOL 20 GR CRA                                            35            81647285                                                       
+16299     AZITROMICINA 500MG C/3T                                        30            81647285                                                       
+30228     METOPROLOL 20T/100                                             29            81647285                                                       
+Codigo    Descripcion                                                 Cant.            Cod. Med     Especialidad                                      
+1282      

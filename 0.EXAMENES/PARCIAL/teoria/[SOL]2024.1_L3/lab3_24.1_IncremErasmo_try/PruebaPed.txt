@@ -1,0 +1,274 @@
+DNI:34460612            5                   
+Libros Pedidos: 
+59
+167
+37
+43
+75
+DNI:42302422            6                   
+Libros Pedidos: 
+140
+16
+89
+44
+77
+15
+DNI:46582367            2                   
+Libros Pedidos: 
+9
+139
+DNI:37751890            10                  
+Libros Pedidos: 
+35
+135
+81
+67
+13
+153
+50
+65
+69
+117
+DNI:69200503            5                   
+Libros Pedidos: 
+132
+143
+171
+162
+152
+DNI:36699613            1                   
+Libros Pedidos: 
+155
+DNI:51235238            3                   
+Libros Pedidos: 
+80
+125
+36
+DNI:60740809            3                   
+Libros Pedidos: 
+84
+23
+91
+DNI:72832218            4                   
+Libros Pedidos: 
+144
+71
+87
+121
+DNI:47659552            6                   
+Libros Pedidos: 
+10
+48
+147
+76
+134
+138
+DNI:54393647            3                   
+Libros Pedidos: 
+92
+47
+126
+DNI:33583840            3                   
+Libros Pedidos: 
+63
+8
+99
+DNI:27109544            2                   
+Libros Pedidos: 
+27
+70
+DNI:65071478            5                   
+Libros Pedidos: 
+151
+40
+159
+163
+133
+DNI:38724322            3                   
+Libros Pedidos: 
+136
+95
+106
+DNI:11750801            5                   
+Libros Pedidos: 
+115
+97
+170
+34
+49
+DNI:32231860            1                   
+Libros Pedidos: 
+131
+DNI:86898639            2                   
+Libros Pedidos: 
+96
+103
+DNI:92240876            5                   
+Libros Pedidos: 
+3
+17
+157
+104
+45
+DNI:66747161            2                   
+Libros Pedidos: 
+5
+124
+DNI:14268463            8                   
+Libros Pedidos: 
+94
+90
+110
+30
+55
+60
+18
+52
+DNI:45834351            1                   
+Libros Pedidos: 
+154
+DNI:17750908            5                   
+Libros Pedidos: 
+42
+166
+164
+26
+107
+DNI:65830353            3                   
+Libros Pedidos: 
+109
+146
+120
+DNI:21344013            3                   
+Libros Pedidos: 
+100
+56
+20
+DNI:96056368            1                   
+Libros Pedidos: 
+111
+DNI:33958767            2                   
+Libros Pedidos: 
+102
+32
+DNI:67066631            1                   
+Libros Pedidos: 
+168
+DNI:20449598            1                   
+Libros Pedidos: 
+31
+DNI:15129661            2                   
+Libros Pedidos: 
+58
+66
+DNI:87804471            5                   
+Libros Pedidos: 
+62
+46
+105
+12
+127
+DNI:45002711            1                   
+Libros Pedidos: 
+28
+DNI:20610190            1                   
+Libros Pedidos: 
+1
+DNI:81082011            5                   
+Libros Pedidos: 
+24
+79
+68
+156
+39
+DNI:35030611            2                   
+Libros Pedidos: 
+142
+130
+DNI:61212473            1                   
+Libros Pedidos: 
+116
+DNI:88080249            3                   
+Libros Pedidos: 
+98
+33
+108
+DNI:85870289            3                   
+Libros Pedidos: 
+114
+141
+64
+DNI:83265244            4                   
+Libros Pedidos: 
+169
+165
+22
+14
+DNI:81462164            6                   
+Libros Pedidos: 
+2
+73
+54
+149
+53
+78
+DNI:14500753            5                   
+Libros Pedidos: 
+51
+123
+72
+148
+11
+DNI:79743481            1                   
+Libros Pedidos: 
+7
+DNI:49516360            5                   
+Libros Pedidos: 
+21
+160
+19
+6
+29
+DNI:37328103            5                   
+Libros Pedidos: 
+122
+86
+150
+161
+172
+DNI:45181396            3                   
+Libros Pedidos: 
+101
+137
+83
+DNI:63602514            1                   
+Libros Pedidos: 
+61
+DNI:57431952            8                   
+Libros Pedidos: 
+41
+82
+4
+112
+88
+119
+38
+25
+DNI:58717040            4                   
+Libros Pedidos: 
+113
+74
+158
+129
+DNI:50860318            2                   
+Libros Pedidos: 
+57
+128
+DNI:76693511            2                   
+Libros Pedidos: 
+93
+118
+DNI:48053960            2                   
+Libros Pedidos: 
+145
+85

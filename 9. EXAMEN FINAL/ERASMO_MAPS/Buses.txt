@@ -1,0 +1,2 @@
+AXZ123,Erasmo Gomez,3,Lima,Chincha,Pisco
+RFV123,Kevin Zavalla,2,Ica,Pisco

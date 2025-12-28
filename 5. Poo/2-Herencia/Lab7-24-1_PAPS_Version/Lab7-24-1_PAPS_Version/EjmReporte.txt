@@ -1,0 +1,56 @@
+=====================================================================================================================
+				   Informacion del posicionamiento de Libros 
+	  			     en los estantes de la Biblioteca PAPS 
+=====================================================================================================================
+					   Estantes de Informatica
+=====================================================================================================================
+Cantidad de Estantes: 2 
+---------------------------------------------------------------------------------------------------------------------
+Codigo Estante: A1B2C3			Cantidad de Libros: 2 
+Anchura del Estante: 6    		Altura del Estante: 4 
+
+[*] [*] [ ] [ ] [ ] [ ] 
+[*] [*] [*] [*] [*] [ ] 
+[*] [*] [*] [*] [*] [ ] 
+[*] [*] [*] [*] [*] [ ] 
+
+CODIGO	  NOMBRE			 ANCHO	ALTO	TEMA			   LENGUAJE		DIFICULTAD
+.....................................................................................................................
+JS001A    JavaScript para Principiantes	   2	  4	Desarrollo Web		   JavaScript	    	    2		  	
+ML002B    Machine Learning Avanzado	   3	  3	Inteligencia Artificial    Python		    3		  
+--------------------------------------------------------------------------------------------------------------------- 
+Codigo Estante: P7Q8R9      		Cantidad de Libros: 1
+Anchura del Estante: 10   		Altura del Estante: 8 
+… 
+=====================================================================================================================
+Informacion de todos los Libros:  
+Cantidad de Libros Total: 3 
+JS001A    JavaScript para Principiantes	   2	  4	Desarrollo Web		   JavaScript	    	    2 
+… 
+SI003C    Seguridad en Redes		   1	  5	Seguridad Informatica	   C++	    	    	    4
+=====================================================================================================================
+					   Estantes de Derecho
+=====================================================================================================================
+Cantidad de Estantes: 2 
+---------------------------------------------------------------------------------------------------------------------
+Codigo Estante: X4Y5Z6		Cantidad de Libros: 1 
+Anchura del Estante: 5    	Altura del Estante: 3 
+
+[ ] [ ] [ ] [ ] [ ]
+[*] [*] [*] [ ] [ ]
+[*] [*] [*] [ ] [ ] 
+
+CODIGO	  NOMBRE			 ANCHO	ALTO	AREA			   JURISDICCION		EDICION
+.....................................................................................................................
+CN001A    Constitucion Nacional		   2	  3	Constitucional		   Nacional	    	  2023		  
+--------------------------------------------------------------------------------------------------------------------- 
+Codigo Estante: M0N1O2      	Cantidad de Libros: 2
+Anchura del Estante: 8   	Altura del Estante: 6 
+… 
+=====================================================================================================================
+Informacion de todos los Libros:  
+Cantidad de Libros Total: 3 
+CN001A    Constitucion Nacional		   2	  3	Constitucional		   Nacional	    	  2023		   
+… 
+LA003C    Leyes Laborales 2024		   1	  5	Laboral		   	   Nacional	    	  2024		  
+=====================================================================================================================

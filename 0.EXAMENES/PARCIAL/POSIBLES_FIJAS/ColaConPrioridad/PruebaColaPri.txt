@@ -1,0 +1,7 @@
+Jaritza             80      5000
+Roller              85     10000
+Mell                80      5000
+Juan                30     30000
+María               25     35000
+Pedro               40     40000
+Ana                 35     38000

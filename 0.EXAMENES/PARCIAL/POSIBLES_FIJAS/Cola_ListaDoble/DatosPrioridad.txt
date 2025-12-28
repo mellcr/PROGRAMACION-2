@@ -1,0 +1,7 @@
+Maria,25,35000
+Ana,35,38000
+Jaritza,80,5000
+Roller,47,10000
+Mell,80,5000
+Dri,8,30000
+Louise,5,30000

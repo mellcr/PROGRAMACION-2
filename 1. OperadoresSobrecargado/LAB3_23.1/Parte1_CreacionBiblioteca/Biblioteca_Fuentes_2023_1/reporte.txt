@@ -1,0 +1,55 @@
+Prueba #1: Lectura de curso 
+
+     CODIGO                    NOMBRE                                                   CREDITOS
+     INF263                  Algoritmia                                                   3.75
+     PROFESOR: INGA FLORES CESAR ADOLFO                      [35030611]
+     Alumnos Matriculados:
+     Semestre     Codigo
+     Numero de alumnos:   0
+     Total ingresado:       0.00
+Prueba #2: Agregacion de curso a arreglo de cursos
+     CODIGO                    NOMBRE                                                   CREDITOS
+     INF263                  Algoritmia                                                   3.75
+     PROFESOR:                                               [35030611]
+     Alumnos Matriculados:
+     Semestre     Codigo
+     Numero de alumnos:   0
+     Total ingresado:       0.00
+Prueba #3: Lectura de un alumno
+     SEMESTRE     CODIGO    NOMBRE                                       MODALIDAD                  ESCALA
+     20211         1260     GORDILLO/CASTRO/RONAL                        PRESEENCIAL                  2
+     Codigo de Cursos Matriculados
+     EL ALUMNO NO ESTA MATRICULADO ESTE CICLO
+     Numero de cursos:   0
+     Costo total:        0.00
+Prueba #4: Agregacion de alumno al arrAlum
+     SEMESTRE     CODIGO    NOMBRE                                       MODALIDAD                  ESCALA
+     20211         1260     GORDILLO/CASTRO/RONAL                        PRESEENCIAL                  2
+     Codigo de Cursos Matriculados
+     EL ALUMNO NO ESTA MATRICULADO ESTE CICLO
+     Numero de cursos:   0
+     Costo total:        0.00
+
+
+Prueba #5: Lectura de matriculados
+Curso: INF263
+Semestre: 20231
+Alumno: 8320
+
+Prueba #6: Agregar alumno al curso q se matriculo
+     SEMESTRE     CODIGO    NOMBRE                                       MODALIDAD                  ESCALA
+     20211         1260     GORDILLO/CASTRO/RONAL                        PRESEENCIAL                  2
+     Codigo de Cursos Matriculados
+            INF263
+     Numero de cursos:   1
+     Costo total:        0.00
+
+Prueba 7: Agregar un curso al ALUMNO q se matriculo
+     CODIGO                    NOMBRE                                                   CREDITOS
+     INF263                  Algoritmia                                                   3.75
+     PROFESOR:                                               [35030611]
+     Alumnos Matriculados:
+     Semestre     Codigo
+           0       1260
+     Numero de alumnos:   1
+     Total ingresado:       0.00

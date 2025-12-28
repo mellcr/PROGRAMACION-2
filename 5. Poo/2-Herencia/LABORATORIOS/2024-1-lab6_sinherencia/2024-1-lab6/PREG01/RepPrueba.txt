@@ -1,0 +1,13 @@
+Codigo Estante: AAA       Cantidad de Libros: 1    
+Anchura del Estante: 6    Altura del Estante: 4
+--------------------------------------------------
+[   ][   ][   ][   ][   ][   ]
+[ * ][   ][   ][   ][   ][   ]
+[ * ][   ][   ][   ][   ][   ]
+[ * ][   ][   ][   ][   ][   ]
+CODIGO    NOMBRE                   ANCHO     ALTO
+..................................................
+ABC123     El libro de la Selva       1        3
+
+ABC123     El libro de la Selva       1        3
+[   ]
